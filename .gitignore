@@ -5,4 +5,5 @@ dist/
 *.spec
 
 # No subir los ejecutables al código fuente
-*.exe
+*.exeEFI/ 
+*.efi 
