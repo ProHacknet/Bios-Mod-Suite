@@ -75,5 +75,5 @@ Si al intentar el Método 1 la consola te arroja el error `EFI_UNSUPPORTED`, sig
 ---
 
 ## 👨‍💻 Autor
-Desarrollado por **Juan Carlos Rojas Bacilio** ([ProHacknet](https://github.com/ProHacknet))
+Desarrollado por **Juan Carlos** ([ProHacknet](https://github.com/ProHacknet))
 Proyecto de auditoría de hardware e ingeniería inversa.
