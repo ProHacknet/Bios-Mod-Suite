@@ -1,0 +1,8 @@
+# Archivos temporales de Python y compilación
+__pycache__/
+build/
+dist/
+*.spec
+
+# No subir los ejecutables al código fuente
+*.exe
